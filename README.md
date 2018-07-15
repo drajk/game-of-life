@@ -20,7 +20,7 @@ yarn start
 
 ## Running unit tests
 
-After you have installed all dependencies you can run the app with:
+You can run unit tests with:
 
 ```bash
 yarn run test
