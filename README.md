@@ -4,7 +4,7 @@ Game of life
 
 ## Installing
 
--   `yarn install` to install all dependencies
+-   `yarn` to install all dependencies
 
 ```sh
 yarn install
@@ -29,7 +29,7 @@ yarn run test
 Unit tests are written using Mocha. Please run this if you dont have Mocha installed globally.
 
 ```sh
-yarn add -g mocha
+npm add -g mocha
 ```
 
 ## Assumptions

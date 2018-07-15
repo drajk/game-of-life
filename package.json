@@ -1,7 +1,7 @@
 {
     "name": "game-of-life",
     "version": "0.1",
-    "main": "src/index.js",
+    "main": "index.js",
     "license": "MIT",
     "description": "game of life",
     "repository": "github.com/drajk/game-of-life",
@@ -20,6 +20,7 @@
     },
     "scripts": {
         "start": "./node_modules/ts-node/dist/bin.js src/main.ts",
+        "test:old": "echo \"Error: no test specified\" && exit 1",
         "test": "mocha -r ts-node/register src/**/*.spec.ts"
     }
 }
