@@ -7,7 +7,7 @@ Game of life
 -   `yarn` to install all dependencies
 
 ```sh
-yarn install
+yarn
 ```
 
 ## Running the app
