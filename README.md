@@ -29,7 +29,7 @@ yarn run test
 Unit tests are written using Mocha. Please run this if you dont have Mocha installed globally.
 
 ```sh
-npm add -g mocha
+yarn add -g mocha
 ```
 
 ## Assumptions
