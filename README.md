@@ -1,6 +1,6 @@
-# Game of Life
+# Game of Life - Node js console app
 
-Game of life
+Console application in nodejs using inquirer, mocha, typescript and axios.
 
 ## Installing
 
